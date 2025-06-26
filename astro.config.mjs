@@ -34,7 +34,7 @@ export default defineConfig({
 			title: 'RIA 虾仁漫游指南',
 			logo: {
 				light: './src/assets/ria-logo-white.png',
-				dark: './src/assets/ria-logo-white.png',
+				dark: './src/assets/ria-logo-dark.png',
 				replacesTitle: false,
 			},
 			customCss: [
